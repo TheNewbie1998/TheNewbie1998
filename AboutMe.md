@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @TheNewbie1998
-- 👀 I’m interested in: Books, Sport Shooting, Art
-- 🌱 I’m currently learning: JavaScript
-- 📫 How to reach me: klimekgorzow1@gmail.com
